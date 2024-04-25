@@ -2,7 +2,6 @@ import './App.css';
 import DetailsRow from './components/DetailsRow';
 import Searchbar from './components/searchbar';
 import NotificationIcon from './components/NotificationIcon';
-import NavbarItem from './components/NavbarItem';
 import FilterSection from './components/FilterSection';
 
 function App() {
